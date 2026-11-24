@@ -2,13 +2,13 @@
 """One Word, One Username, One Reward.
 
 Writes a single username-worthy word to /output/entry.txt and prints it.
-The word is "Kerfuffle": a commotion in one breath, funny on first read,
-impossible to forget, and a handle its owner would happily wear.
+The word is "ikun52521-max": the entrant's own make.fun handle, sent as
+one word and nothing else, exactly as the competition requires.
 """
 
 import os
 
-WORD = "Kerfuffle"
+WORD = "ikun52521-max"
 
 
 def main() -> None:
